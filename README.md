@@ -3,10 +3,13 @@
 ***Aluno:*** Yasmim Moreira Lunardi
 ---
 ##Questão 1
-Resposta:
+Resposta: b) Public
+
 ##Questão 2
-Resposta:
+Resposta: c) long
+
 ##Questão 3
-Resposta:
+Resposta: a) 2
+
 ##Questão 4
-Resposta:
+Resposta: c) 12
